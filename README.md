@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 	<a href="https://github.com/arafat-hasan"><img src="https://img.shields.io/github/followers/arafat-hasan?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/arafat-hasan/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://twitter.com/Arafat_HJ"><img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAHJenin" alt="Twitter"></a>
-  <a href="https://stackoverflow.com/users/7829174/arafat-hasan"><img src="https://img.shields.io/stackexchange/stackoverflow/r/7829174?label=stackoverflow&style=social" alt="Stackoverflow"></a>
+  <a href="https://stackoverflow.com/users/7829174/arafat-hasan"><img src="https://img.shields.io/stackexchange/stackoverflow/r/7829174" alt="Stackoverflow"></a>
 </p>
