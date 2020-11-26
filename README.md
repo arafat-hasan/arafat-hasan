@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 	<a href="https://github.com/arafat-hasan"><img src="https://img.shields.io/github/followers/arafat-hasan?label=GitHub&style=flat" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/arafat-hasan/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://twitter.com/Arafat_HJ"><img src="https://img.shields.io/twitter/url?label=Twitter&style=flat&url=https%3A%2F%2Ftwitter.com%2FArafat_HJ" alt="Twitter"></a>
-	<a href="https://stackoverflow.com/users/7829174/arafat-hasan"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7829174?order=desc&sort=reputation&site=stackoverflow"></a>
+	<a href="https://stackoverflow.com/users/7829174/arafat-hasan"><img alt="Stack Exchange reputation" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstack-overflow-reputation-tm7s1nvuekql.runkit.sh"></a>
 </p>
 
 <p align="center">
