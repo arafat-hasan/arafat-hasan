@@ -68,7 +68,7 @@ This is [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bache
 
 <p align="center">
 <a href="https://github.com/arafat-hasan/arafat-hasan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27+Github+Status&theme=solarized-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27s+Github+Status&theme=solarized-dark" />
 </a>
 <!--
 <a href="https://github.com/arafat-hasan/arafat-hasan">
