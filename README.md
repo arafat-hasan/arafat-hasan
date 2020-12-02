@@ -3,7 +3,7 @@
 <h4 align="center"> Continuous Learner ⦁ Outsider Observer </h4>
 <p align="center"> <a href="https://www.arafathasan.me"><i>www.arafathasan.me</i></a> </p>
 
-
+<div>
 <p align="center">
 	<a href="https://github.com/arafat-hasan">
 		<img src="https://img.shields.io/github/followers/arafat-hasan?label=Follow&style=social" alt="GitHub">
@@ -21,7 +21,7 @@
 		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farafat-hasan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 	</a>
 </p>
-
+</div>
 
 
 ## Hey there 👋
