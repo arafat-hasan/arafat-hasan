@@ -5,30 +5,30 @@
 
 <div>
 <p align="center">
-	<a href="https://github.com/arafat-hasan">
-		<img src="https://img.shields.io/github/followers/arafat-hasan?label=Follow&style=social" alt="GitHub">
-	</a>
-	<a href="https://www.linkedin.com/in/arafat-hasan/">
-		<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arafat-hasan/)" alt="LinkedIn">
-	</a>
-	<a href="https://twitter.com/Arafat_HJ" alt="Twitter">
-		<img src="https://img.shields.io/twitter/follow/Arafat_HJ?style=social" />	
-	</a>
-	<a href="https://stackoverflow.com/users/7829174/arafat-hasan">
-		<img alt="Stack Exchange reputation" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstack-overflow-reputation-tm7s1nvuekql.runkit.sh">
-	</a>
-	<a href="https://github.com/arafat-hasan" alt="Github">
-		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farafat-hasan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
-	</a>
+<a href="https://github.com/arafat-hasan">
+<img src="https://img.shields.io/github/followers/arafat-hasan?label=Follow&style=social" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/arafat-hasan/">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arafat-hasan/)" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/Arafat_HJ" alt="Twitter">
+<img src="https://img.shields.io/twitter/follow/Arafat_HJ?style=social" />
+</a>
+<a href="https://stackoverflow.com/users/7829174/arafat-hasan">
+<img alt="Stack Exchange reputation" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstack-overflow-reputation-tm7s1nvuekql.runkit.sh">
+</a>
+<a href="https://github.com/arafat-hasan" alt="Github">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farafat-hasan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+</a>
 </p>
 </div>
 
 
 ## Hey there 👋
 <div>
-	<div>
-		<img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="40%" />
-	</div>
+<div>
+<img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="40%" />
+</div>
 <p style="text-align:justify">
 I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing my bachelor's degree 👨🏽‍🎓 majoring in Computer Science and Engineering 🚀 from Bangladesh 🇧🇩; I am an utter computer nerd 👨🏽‍💻, tech enthusiast ⚙️ and an open-source advocate. I love Vim, Linux and enjoy customizing all of the development environments. Work best with keyboard shortcuts ⌨️ and hate to use a mouse 🖱️. A stoic observer of the universe 🌌.
 </p>
@@ -37,7 +37,7 @@ I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing 
 ### Talking about Personal Stuffs
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Docker and Python; 
+- 🌱 I’m currently learning Docker and Python;
 - 💬 Ask me about anything, I’d love to hear from you;
 - 📫 Reach me via [email](mailto:opendoor.arafat@gmail.com);
 - 😄 Pronouns: He;
@@ -85,14 +85,14 @@ I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing 
 <br>
 <p align="center">
 <a href="https://github.com/arafat-hasan/arafat-hasan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27s+Github+Status&theme=solarized-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27s+Github+Status&theme=solarized-dark" />
 </a>
 <!--
 <a href="https://github.com/arafat-hasan/arafat-hasan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hasan&langs_count=6&include_all_commits=true&theme=solarized-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hasan&langs_count=6&include_all_commits=true&theme=solarized-dark" />
 </a> -->
 </p>
 
 <!-- ![Arafat Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat-hasan) -->
 
-<p align="center"><a href="https://github.com/arafat-hasan"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/arafat-hasan"><img src="img/barsSmall?raw=true" alt="Animated footer bars" width="100%"/></a></p>
