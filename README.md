@@ -40,30 +40,30 @@ This is [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bache
 - 🪐 My activities are much beyond my stream of education and profession;
 
 ### Languages and Tools
-<code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/python-14354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/github-121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/apache-D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/-Vim-019833?style=for-the-badge&logo=vim&logoColor=white"/></code>
 <code><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></code>
 <code><img src ="https://img.shields.io/badge/-Redis-black?&style=for-the-badge&logo=Redis&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/travisci-2B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/github%20actions-2671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></code>
-
 
 <p align="center">
 <a href="https://github.com/arafat-hasan/arafat-hasan">
