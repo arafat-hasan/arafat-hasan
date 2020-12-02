@@ -26,8 +26,7 @@
   
 
 ## Hey there 👋
-This is [Arafat Hasan](https://www.arafathasan.me/), a student 👨🏽‍🎓 of Computer Science and Engineering 🚀 from Bangladesh 🇧🇩; an utter computer nerd who loves Vim, Linux, open source 👨🏽‍💻 and enjoys customizing all of the development environments. Work best with keyboard shortcuts and hate to use a mouse. A stoic observer of the universe.
-
+This is [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bachelor's degree 👨🏽‍🎓 majoring in Computer Science and Engineering 🚀 from Bangladesh 🇧🇩; an utter computer nerd who loves Vim, Linux, open source 👨🏽‍💻 and enjoys customizing all of the development environments. Work best with keyboard shortcuts and hate to use a mouse. A stoic observer of the universe.
 
 
 ### Talking about Personal Stuffs
@@ -55,6 +54,7 @@ This is [Arafat Hasan](https://www.arafathasan.me/), a student 👨🏽‍🎓 o
 <code><img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>
 <code><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></code>
+<code><img src ="https://img.shields.io/badge/-Redis-black?&style=for-the-badge&logo=Redis&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/></code>
 
