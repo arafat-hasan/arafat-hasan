@@ -1,7 +1,7 @@
 
 <h1 align="center">Arafat Hasan</h1>
 <h4 align="center"> Continuous Learner ⦁ Outsider Observer </h4>
-<h5 align="center"> <a href="https://www.arafathasan.me">www.arafathasan.me</a> </h5>
+<h5 align="center"> <a href="https://www.arafathasan.me"><i>www.arafathasan.me</i></a> </h5>
 
 
 <p align="center">
@@ -25,14 +25,14 @@
   <img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="500" height="320" />
 
 ## Hey there 👋
-This is [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bachelor's degree 👨🏽‍🎓 majoring in Computer Science and Engineering 🚀 from Bangladesh 🇧🇩; an utter computer nerd who loves Vim, Linux, open source 👨🏽‍💻 and enjoys customizing all of the development environments. Work best with keyboard shortcuts and hate to use a mouse. A stoic observer of the universe.
+I am [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bachelor's degree 👨🏽‍🎓 majoring in Computer Science and Engineering 🚀 from Bangladesh 🇧🇩; I am an utter computer nerd 👨🏽‍💻, tech enthusiast ⚙️ and an open-source advocate. I love Vim, Linux and enjoy customizing all of the development environments. Work best with keyboard shortcuts ⌨️ and hate to use a mouse 🖱️. A stoic observer of the universe 🌌.
 
 
 ### Talking about Personal Stuffs
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Docker and Python; 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I’d love to hear from you;
 - 📫 Reach me via [email](mailto:opendoor.arafat@gmail.com);
 - 😄 Pronouns: He;
 - ⚡ Fun fact: (Nobody Knows That) I'm actually an alien;
