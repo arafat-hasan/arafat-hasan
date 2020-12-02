@@ -1,7 +1,7 @@
 
 <h1 align="center">Arafat Hasan</h1>
 <h4 align="center"> Continuous Learner ⦁ Outsider Observer </h4>
-<h5 align="center"> <a href="https://www.arafathasan.me"><i>www.arafathasan.me</i></a> </h5>
+<p align="center"> <a href="https://www.arafathasan.me"><i>www.arafathasan.me</i></a> </p>
 
 
 <p align="center">
@@ -22,11 +22,12 @@
 	</a>
 </p>
 
-  <img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="500" height="320" />
+
 
 ## Hey there 👋
 I am [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bachelor's degree 👨🏽‍🎓 majoring in Computer Science and Engineering 🚀 from Bangladesh 🇧🇩; I am an utter computer nerd 👨🏽‍💻, tech enthusiast ⚙️ and an open-source advocate. I love Vim, Linux and enjoy customizing all of the development environments. Work best with keyboard shortcuts ⌨️ and hate to use a mouse 🖱️. A stoic observer of the universe 🌌.
 
+<img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="500" height="320" />
 
 ### Talking about Personal Stuffs
 
