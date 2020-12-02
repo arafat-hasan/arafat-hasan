@@ -41,7 +41,7 @@ I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing 
 - 💬 Ask me about anything, I’d love to hear from you;
 - 📫 Reach me via [email](mailto:opendoor.arafat@gmail.com);
 - 😄 Pronouns: He;
-- ⚡ Fun fact: (Nobody Knows That) I'm actually an alien;
+- ⚡ Fun fact: I'm actually an alien (🤫 nobody knows but me);
 - 💪 I'm a fast learner looking for interesting career opportunities, skills and growth;
 - 🪐 My activities are much beyond my stream of education and profession;
 
