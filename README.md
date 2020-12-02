@@ -76,6 +76,7 @@ This is [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bache
 - [Answer by Arafat Hasan for mysqli_real_connect(): (HY000/2002): No such file or directory](https://stackoverflow.com/questions/41881123/mysqli-real-connect-hy000-2002-no-such-file-or-directory/63676654#63676654)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
 <p align="center">
 <a href="https://github.com/arafat-hasan/arafat-hasan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27s+Github+Status&theme=solarized-dark" />
