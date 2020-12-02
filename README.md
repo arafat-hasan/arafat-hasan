@@ -50,3 +50,6 @@ I'm [Arafat Hasan](https://arafathasan.me/), a student 👨‍🎓 of Computer S
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hasan&langs_count=6&include_all_commits=true&theme=solarized-dark" />
 </a> -->
 </p>
+
+
+<p align="center"><a href="https://github.com/arafat-hasan"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
