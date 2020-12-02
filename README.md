@@ -25,14 +25,20 @@
 	</a>
 </p>
 
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm [Arafat Hasan](https://arafathasan.me/), a student 👨‍🎓 of Computer Science and Engineering 🚀 from Bangladesh 🇧🇩. Am an utter computer nerd who loves Vim, Linux and enjoys customizing all of the development environments. Work best with keyboard shortcuts and hate to use a mouse. A stoic spectator of the universe.
+### Hey there 👋
+This is [Arafat Hasan](https://arafathasan.me/), a student 👨‍🎓 of Computer Science and Engineering 🚀 from Bangladesh 🇧🇩. An utter computer nerd who loves Vim, Linux and enjoys customizing all of the development environments. Work best with keyboard shortcuts and hate to use a mouse. A stoic spectator of the universe.
 
 <!-- ![Arafat Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat-hasan) -->
 
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Docker and Python; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Reach me via [email](mailto:opendoor.arafat@gmail.com);
 
 **Languages and Tools:**  
 
@@ -40,6 +46,7 @@ I'm [Arafat Hasan](https://arafathasan.me/), a student 👨‍🎓 of Computer S
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 <p align="center">
 <a href="https://github.com/arafat-hasan/arafat-hasan">
