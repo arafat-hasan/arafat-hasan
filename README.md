@@ -21,14 +21,11 @@
 <!-- ![Arafat Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat-hasan) -->
 
 
-📈 My GitHub Stats
+
 <p align="center">
 <a href="https://github.com/arafat-hasan/arafat-hasan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27+Github+Status&theme=solarized-dark" />
 </a>
-
-
-📈 Top Languages
 
 <a href="https://github.com/arafat-hasan/arafat-hasan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hasan&langs_count=6&include_all_commits=true&theme=solarized-dark" />
