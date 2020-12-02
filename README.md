@@ -21,7 +21,7 @@
 		<img alt="Stack Exchange reputation" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstack-overflow-reputation-tm7s1nvuekql.runkit.sh">
 	</a>
 	<a href="https://github.com/arafat-hasan" alt="Github">
-		<img src="https://komarev.com/ghpvc/?username=arafat-hasan&style=flat" />
+		<img src="https://visitor-badge.glitch.me/badge?page_id=arafat-hasan.arafat-hasan" />
 	</a>
 </p>
 
