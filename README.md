@@ -21,24 +21,28 @@
 		<img alt="Stack Exchange reputation" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstack-overflow-reputation-tm7s1nvuekql.runkit.sh">
 	</a>
 	<a href="https://github.com/arafat-hasan" alt="Github">
-		<img src="https://visitor-badge.glitch.me/badge?page_id=arafat-hasan.arafat-hasan" />
+		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farafat-hasan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 	</a>
 </p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
-### Hey there 👋
-This is [Arafat Hasan](https://arafathasan.me/), a student 👨‍🎓 of Computer Science and Engineering 🚀 from Bangladesh 🇧🇩. An utter computer nerd who loves Vim, Linux and enjoys customizing all of the development environments. Work best with keyboard shortcuts and hate to use a mouse. A stoic spectator of the universe.
+## Hey there 👋
+This is [Arafat Hasan](https://arafathasan.me/), a student 👨‍🎓 of Computer Science and Engineering 🚀 from Bangladesh 🇧🇩, who is an utter computer nerd who loves Vim, Linux, open source and enjoys customizing all of the development environments. I work best with keyboard shortcuts and hate to use a mouse. A stoic observer of the universe.
 
 <!-- ![Arafat Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat-hasan) -->
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Docker and Python; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Reach me via [email](mailto:opendoor.arafat@gmail.com);
+- 📫 Reach me: [email](mailto:opendoor.arafat@gmail.com);
+- 😄 Pronouns: He
+- ⚡ Fun fact: (Nobody Knows That) I'm Really An Alien
+- 💪 I'm a fast learner looking for interesting career opportunities, more importantly, to build up my career and skills and growth.
+- 🪐 My activities are much beyond my stream of education and profession.
 
 **Languages and Tools:**  
 
