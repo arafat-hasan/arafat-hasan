@@ -67,7 +67,7 @@ This is [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bache
 
 
 
-# Latest Posts
+### Latest Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
