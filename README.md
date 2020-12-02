@@ -26,7 +26,8 @@
 <a href="https://github.com/arafat-hasan/arafat-hasan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27+Github+Status&theme=solarized-dark" />
 </a>
-
+<!--
 <a href="https://github.com/arafat-hasan/arafat-hasan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hasan&langs_count=6&include_all_commits=true&theme=solarized-dark" />
-</a></p>
+</a> -->
+</p>
