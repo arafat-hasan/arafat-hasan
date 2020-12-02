@@ -37,7 +37,7 @@ This is [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bache
 - 📫 Reach me via [email](mailto:opendoor.arafat@gmail.com);
 - 😄 Pronouns: He;
 - ⚡ Fun fact: (Nobody Knows That) I'm actually an alien;
-- 💪 I'm a fast learner looking for interesting career opportunities, sills and growth;
+- 💪 I'm a fast learner looking for interesting career opportunities, skills and growth;
 - 🪐 My activities are much beyond my stream of education and profession;
 
 ### Languages and Tools
