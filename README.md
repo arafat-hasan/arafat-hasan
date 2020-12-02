@@ -25,11 +25,14 @@
 
 
 ## Hey there 👋
-<p>
-<img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="500" height="320" />
+<div>
+	<div>
+		<img float="right" alt="GIF" src="img/programmer.gif?raw=true" width="500" height="320" />
+	</div>
+<p text-align="justify">
 I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing my bachelor's degree 👨🏽‍🎓 majoring in Computer Science and Engineering 🚀 from Bangladesh 🇧🇩; I am an utter computer nerd 👨🏽‍💻, tech enthusiast ⚙️ and an open-source advocate. I love Vim, Linux and enjoy customizing all of the development environments. Work best with keyboard shortcuts ⌨️ and hate to use a mouse 🖱️. A stoic observer of the universe 🌌.
 </p>
-
+</div>
 
 ### Talking about Personal Stuffs
 
