@@ -22,8 +22,7 @@
 	</a>
 </p>
 
-  <img align="right" alt="GIF" src="img/programmer.gif" width="500" height="320" />
-  
+  <img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="500" height="320" />
 
 ## Hey there 👋
 This is [Arafat Hasan](https://www.arafathasan.me/), currently pursuing my bachelor's degree 👨🏽‍🎓 majoring in Computer Science and Engineering 🚀 from Bangladesh 🇧🇩; an utter computer nerd who loves Vim, Linux, open source 👨🏽‍💻 and enjoys customizing all of the development environments. Work best with keyboard shortcuts and hate to use a mouse. A stoic observer of the universe.
