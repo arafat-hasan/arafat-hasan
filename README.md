@@ -11,6 +11,8 @@
 <a href="https://www.linkedin.com/in/arafat-hasan/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arafat-hasan/)" alt="LinkedIn">
 </a>
+<a href="https://stackexchange.com/users/10631022"><img src="https://stackexchange.com/users/flair/10631022.png" width="208" height="58" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 <a href="https://twitter.com/Arafat_HJ" alt="Twitter">
 <img src="https://img.shields.io/twitter/follow/Arafat_HJ?style=social" />
 </a>
@@ -20,9 +22,6 @@
 <a href="https://github.com/arafat-hasan" alt="Github">
 <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat"/>
 </a>
-</p>
-<p align="center">
-<a href="https://stackexchange.com/users/10631022"><img src="https://stackexchange.com/users/flair/10631022.png" width="208" height="58" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>
 </div>
 
