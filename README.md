@@ -17,9 +17,12 @@
 <a href="https://stackoverflow.com/users/7829174/arafat-hasan">
 <img alt="Stack Exchange reputation" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstack-overflow-reputation-tm7s1nvuekql.runkit.sh">
 </a>
-<a href="https://github.com/arafat-hasan" alt="Github">
+<!--<a href="https://github.com/arafat-hasan" alt="Github">
 <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat"/>
-</a>
+</a>-->
+</p>
+<p align="center">
+<a href="https://stackexchange.com/users/10631022"><img src="https://stackexchange.com/users/flair/10631022.png" width="208" height="58" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>
 </div>
 
