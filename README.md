@@ -98,4 +98,4 @@ I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing 
 
 <!-- ![Arafat Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat-hasan) -->
 
-<p align="center"><a href="https://github.com/arafat-hasan"><img src="img/barsSmall.gif?raw=true" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href=""><img src="img/barsSmall.gif?raw=true" alt="Animated footer bars" width="100%"/></a></p>
