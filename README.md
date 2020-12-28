@@ -22,7 +22,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://stackexchange.com/users/10631022"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="180" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/10631022"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="160" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>  
 </div>
 
@@ -59,7 +59,8 @@ I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing 
 <code><img src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/github-121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/apache-D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/samba-D42029.svg?&style=for-the-badge&logo=samba&logoColor=white"/></code>
+<!--<code><img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>-->
 <code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/-Vim-019833?style=for-the-badge&logo=vim&logoColor=white"/></code>
 <code><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></code>
