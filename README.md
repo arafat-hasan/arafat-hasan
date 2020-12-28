@@ -60,7 +60,6 @@ I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing 
 <code><img src="https://img.shields.io/badge/github-121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/apache-D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/samba-D42029.svg?&style=for-the-badge&logo=samba&logoColor=white"/></code>
-<!--<code><img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>-->
 <code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/-Vim-019833?style=for-the-badge&logo=vim&logoColor=white"/></code>
 <code><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></code>
@@ -75,7 +74,7 @@ I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing 
 <code><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></code>
 
-
+<!--<code><img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>-->
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
