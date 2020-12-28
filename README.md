@@ -5,6 +5,9 @@
 
 <div>
 <p align="center">
+<a href="https://stackexchange.com/users/10631022"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="180" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</p>  
+<p align="center">
 <a href="https://github.com/arafat-hasan">
 <img src="https://img.shields.io/github/followers/arafat-hasan?label=Follow&style=social" alt="GitHub">
 </a>
@@ -21,10 +24,6 @@
 <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat"/>
 </a>
 </p>
-<p align="center">
-<a href="https://stackexchange.com/users/10631022"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="208" height="58" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-</p>
-
 </div>
 
 
