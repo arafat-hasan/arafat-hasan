@@ -48,7 +48,7 @@ I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing 
 - 💪 I'm a fast learner looking for interesting career opportunities, skills and growth;
 - 🪐 My activities are much beyond my stream of education and profession;
 
-### Languages and Tools
+### Technologies & Tools
 <code><img src="https://img.shields.io/badge/python-14354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></code>
