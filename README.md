@@ -44,7 +44,7 @@ I am <a href="https://www.arafathasan.me/">Arafat Hasan</a> from Bangladesh 🇧
 - 🌱 I’m currently learning Docker and Python;
 - 💬 Ask me about anything, I’d love to hear from you;
 - 📫 Reach me via [email](mailto:opendoor.arafat@gmail.com);
-- 😄 Pronouns: He;
+- 😄 Pronouns: He, His;
 - ⚡ Fun fact: I'm actually an alien (🤫 nobody knows that but me);
 - 💪 I'm a fast learner looking for interesting career opportunities, skills and growth;
 - 🪐 My activities are much beyond my stream of education and profession;
