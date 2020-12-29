@@ -33,7 +33,8 @@
 <img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="40%" />
 </div>
 <p style="text-align:justify">
-I am <a href="https://www.arafathasan.me/">Arafat Hasan</a>, currently pursuing my bachelor's degree 👨🏽‍🎓 majoring in Computer Science and Engineering 🚀 from Bangladesh 🇧🇩; I am an utter computer nerd 👨🏽‍💻, tech enthusiast ⚙️ and an open-source advocate. I love Vim, Linux and enjoy customizing all of the development environments. Work best with keyboard shortcuts ⌨️ and hate to use a mouse 🖱️. A stoic observer of the universe 🌌.
+I am <a href="https://www.arafathasan.me/">Arafat Hasan</a> from Bangladesh 🇧🇩, currently pursuing my bachelor's degree 👨🏽‍🎓 majoring in computer science and engineering 🚀 from Mawlana Bhashani Science and Technology University. An utter computer nerd 👨🏽‍💻 who is curious, enthusiastic and student most of the time, and an open-source advocate who loves Vim and Linux. I am currently working on a couple of open-source projects 🚧. I have a passion 💪 for learning and sharing my knowledge with others as public as possible 💝. I contribute to things as I come across issues ⚒️ that I think other people might struggle 🏋️‍♂️ with. A stoic observer of the universe 🔭.
+
 </p>
 </div>
 
