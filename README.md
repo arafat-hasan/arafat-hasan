@@ -23,7 +23,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://stackoverflow.com/users/7829174/arafat-hasan"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="160" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/7829174/arafat-hasan?tab=profile"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="160" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>  
 </div>
 
