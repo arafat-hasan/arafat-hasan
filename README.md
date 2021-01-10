@@ -12,7 +12,7 @@
 <p style="text-align:justify">
 I am <a href="https://www.arafathasan.me/">Arafat Hasan</a> from Bangladesh 🇧🇩, currently pursuing my bachelor's degree 👨🏽‍🎓 focused on computer science and engineering 🚀 from Mawlana Bhashani Science and Technology University. I am a curious, enthusiastic learner most of the time and an utter computer nerd 👨🏽‍💻, an open-source advocate who loves Vim and Linux. I have a passion 💝 for learning and sharing my knowledge 💪 with others as public as possible. I contribute to things as I come across issues ⚒️ that I think other people might struggle with 🏋️‍♂️.
 
-I read books and love to 📚. I am interested in philosophy, history, politics, literature, technology, and psychology. I think myself a stoic observer of the universe 🔭.
+I read books and love to 📚. I have interest in philosophy, history, politics, literature, technology, and psychology. I think myself a stoic observer of the universe 🔭.
 
 </p>
 </div>
