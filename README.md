@@ -4,30 +4,6 @@
 <p align="center"> <tt><a href="https://www.arafathasan.me/">www.arafathasan.me</a></tt></a> </p>
 
 
-<div>
-<p align="center">
-<a href="https://github.com/arafat-hasan">
-<img src="https://img.shields.io/github/followers/arafat-hasan?label=Follow&style=social" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/arafat-hasan/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arafat-hasan/)" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/Arafat_HJ" alt="Twitter">
-<img src="https://img.shields.io/twitter/follow/Arafat_HJ?style=social" />
-</a>
-<!--<a href="https://stackoverflow.com/users/7829174/arafat-hasan">
-<img alt="Stack Exchange reputation" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstack-overflow-reputation-tm7s1nvuekql.runkit.sh">
-</a>-->
-<a href="https://github.com/arafat-hasan" alt="Github">
-<img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat"/>
-</a>
-</p>
-<p align="center">
-<a href="https://stackoverflow.com/users/7829174/arafat-hasan?tab=profile"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="160" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-</p>  
-</div>
-
-
 ## Hey there 👋
 <div>
 <div>
@@ -51,6 +27,31 @@ I read books and love to 📚. I am interested in philosophy, history, politics,
 - ⚡ Fun fact: I'm actually an alien (🤫 nobody knows that but me);
 - 💪 I'm a fast learner looking for interesting career opportunities, skills and growth;
 - 🪐 My activities are much beyond my stream of education and profession;
+
+
+### Profiles
+<div>
+<p align="left">
+<a href="https://github.com/arafat-hasan">
+<img src="https://img.shields.io/github/followers/arafat-hasan?label=Follow&style=social" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/arafat-hasan/">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arafat-hasan/)" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/Arafat_HJ" alt="Twitter">
+<img src="https://img.shields.io/twitter/follow/Arafat_HJ?style=social" />
+</a>
+<!--<a href="https://stackoverflow.com/users/7829174/arafat-hasan">
+<img alt="Stack Exchange reputation" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstack-overflow-reputation-tm7s1nvuekql.runkit.sh">
+</a>-->
+<a href="https://github.com/arafat-hasan" alt="Github">
+<img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat"/>
+</a>
+</p>
+<p align="center">
+<a href="https://stackoverflow.com/users/7829174/arafat-hasan?tab=profile"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="160" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</p>  
+</div>
 
 ### Technologies & Tools
 <code><img src="https://img.shields.io/badge/python-14354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
