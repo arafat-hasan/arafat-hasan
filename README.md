@@ -48,7 +48,7 @@ I read books and love to 📚. I am interested in philosophy, history, politics,
 <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat"/>
 </a>
 </p>
-<p align="center">
+<p align="left">
 <a href="https://stackoverflow.com/users/7829174/arafat-hasan?tab=profile"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="160" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>  
 </div>
