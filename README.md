@@ -53,6 +53,33 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 </p>  
 </div>
 
+
+### Reach Me Out
+
+<a href="mailto:opendoor.arafat@gmail.com">
+  <img align="left" alt="Arafat Hasan's Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arafat-hasan">
+  <img align="left" alt="Anik's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://stackoverflow.com/users/7829174/arafat-hasan">
+  <img align="left" alt="Arafat Hasan's Stack Overflow" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" />
+</a>
+<a href="https://github.com/arafat-hasan">
+  <img align="left" alt="Arafat Hasan's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://twitter.com/Arafat_HJ">
+  <img align="left" alt="Arafat Hasan's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://leetcode.com/arafat_hasan/">
+  <img align="left" alt="Arafat Hasaan's Leetcode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" />
+</a>
+
+<br/>
+
+
+
+
 ### Technologies & Tools
 <code><img src="https://img.shields.io/badge/python-14354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
@@ -102,5 +129,9 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 </p>
 
 <!-- ![Arafat Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat-hasan) -->
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat" alt="arafat-hasan" />
+</p>
 
 <p align="center"><a href="https://github.com/arafat-hasan/arafat-hasan/#"><img src="img/barsSmall.gif?raw=true" alt="Animated footer bars" width="100%"/></a></p>
