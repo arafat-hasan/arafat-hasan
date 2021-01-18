@@ -72,8 +72,17 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 <a href="https://twitter.com/Arafat_HJ">
   <img align="left" alt="Arafat Hasan's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.facebook.com/arafathasanjenin">
+  <img align="left" alt="Arafat Hasan's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg" />
+</a>
 <a href="https://leetcode.com/arafat_hasan/">
   <img align="left" alt="Arafat Hasaan's Leetcode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" />
+</a>
+<a href="https://codeforces.com/profile/arafat_hasan">
+  <img align="left" alt="Arafat Hasaan's Codeforces" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codeforces.svg" />
+</a>
+<a href="https://uhunt.onlinejudge.org/id/859424">
+  <img align="left" alt="Arafat Hasaan's UVa" width="26px" src="https://imgur.com/nK2cc8Z.jpg" />
 </a>
 
 <br/>
