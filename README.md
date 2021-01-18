@@ -29,6 +29,7 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 - 🪐 My activities are much beyond my stream of education and profession;
 
 
+<!--
 ### Profiles
 <div>
 <p align="left">
@@ -52,7 +53,7 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 <a href="https://stackoverflow.com/users/7829174/arafat-hasan?tab=profile"><img src="https://stackexchange.com/users/flair/10631022.png?theme=clean" width="160" alt="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arafat Hasan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>  
 </div>
-
+-->
 
 ### Reach Me Out
 
