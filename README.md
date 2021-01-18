@@ -55,7 +55,7 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 </div>
 -->
 
-### Reach Me Out
+### Profiles
 
 <a href="mailto:opendoor.arafat@gmail.com">
   <img align="left" alt="Arafat Hasan's Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
