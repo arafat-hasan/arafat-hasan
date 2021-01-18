@@ -42,9 +42,9 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 <a href="https://twitter.com/Arafat_HJ" alt="Twitter">
 <img src="https://img.shields.io/twitter/follow/Arafat_HJ?style=social" />
 </a>
-<!--<a href="https://stackoverflow.com/users/7829174/arafat-hasan">
+<a href="https://stackoverflow.com/users/7829174/arafat-hasan">
 <img alt="Stack Exchange reputation" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstack-overflow-reputation-tm7s1nvuekql.runkit.sh">
-</a>-->
+</a>
 <a href="https://github.com/arafat-hasan" alt="Github">
 <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat"/>
 </a>
