@@ -140,8 +140,9 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 
 <!-- ![Arafat Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat-hasan) -->
 
+<!--
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat" alt="arafat-hasan" />
 </p>
-
+-->
 <p align="center"><a href="https://github.com/arafat-hasan/arafat-hasan/#"><img src="img/barsSmall.gif?raw=true" alt="Animated footer bars" width="100%"/></a></p>
