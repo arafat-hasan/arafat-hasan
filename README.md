@@ -122,9 +122,9 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Arafat Hasan for C++ Removing the second line from a string if it exists](https://stackoverflow.com/questions/66023369/c-removing-the-second-line-from-a-string-if-it-exists/66024438#66024438)
 - [Answer by Arafat Hasan for How to prevent Google Colab from disconnecting?](https://stackoverflow.com/questions/57113226/how-to-prevent-google-colab-from-disconnecting/64841893#64841893)
-- [Answer by Arafat Hasan for RuntimeError: DataLoader worker (pid 27351) is killed by signal: Killed](https://stackoverflow.com/questions/63221468/runtimeerror-dataloader-worker-pid-27351-is-killed-by-signal-killed/64725682#64725682)
+- [Answer by Arafat Hasan for RuntimeError: DataLoader worker &lpar;pid 27351&rpar; is killed by signal: Killed](https://stackoverflow.com/questions/63221468/runtimeerror-dataloader-worker-pid-27351-is-killed-by-signal-killed/64725682#64725682)
 - [Answer by Arafat Hasan for How to render the Nepali or Hindi text as label?](https://stackoverflow.com/questions/64300662/how-to-render-the-nepali-or-hindi-text-as-label/64301374#64301374)
-- [Answer by Arafat Hasan for How can I customize / override the "git clone" step in Travis CI?](https://stackoverflow.com/questions/32580821/how-can-i-customize-override-the-git-clone-step-in-travis-ci/63861080#63861080)
+- [Answer by Arafat Hasan for How can I customize / override the &quot;git clone&quot; step in Travis CI?](https://stackoverflow.com/questions/32580821/how-can-i-customize-override-the-git-clone-step-in-travis-ci/63861080#63861080)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
