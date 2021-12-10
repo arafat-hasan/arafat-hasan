@@ -1,7 +1,7 @@
 
 <h1 align="center">Arafat Hasan</h1>
 <h4 align="center"> Continuous Learner • Outsider Observer </h4>
-<p align="center"> <tt><a href="https://www.arafathasan.me/">www.arafathasan.me</a></tt></a> </p>
+<p align="center"> <tt><a href="https://arafat-hasan.github.io/">https://arafat-hasan.github.io/</a></tt></a> </p>
 
 
 ## Hey there 👋
