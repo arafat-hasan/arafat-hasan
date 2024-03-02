@@ -11,11 +11,16 @@
 </div>
 <p style="text-align:justify">
 Welcome! I'm Arafat Hasan from Bangladesh, a passionate software enthusiast and open-source advocate who thrives on contributing to projects and sharing knowledge to empower others. My journey extends beyond the realm of code, as I delve into diverse fields like philosophy, history, politics, literature, and technology, all with a stoic observer's perspective.
-</p>
-</div>
 
 
-### Profiles
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <a href="mailto:opendoor.arafat@gmail.com">
   <img align="left" alt="Arafat Hasan's Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -45,4 +50,5 @@ Welcome! I'm Arafat Hasan from Bangladesh, a passionate software enthusiast and 
   <img align="left" alt="Arafat Hasaan's UVa" width="26px" src="https://imgur.com/nK2cc8Z.jpg" />
 </a>
 
-<br/>
+</p>
+</div>
