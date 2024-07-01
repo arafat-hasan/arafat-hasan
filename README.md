@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="40%" />
 </div>
 <p style="text-align:justify">
-Welcome! I'm Arafat Hasan from Bangladesh, a passionate software enthusiast and open-source advocate who thrives on contributing to projects and sharing knowledge to empower others. My journey extends beyond the realm of code, as I delve into diverse fields like philosophy, history, politics, literature, and technology, all with a stoic observer's perspective.
+A curious and enthusiastic continuous learner, always striving to master new technologies and devise efficient problem-solving methods. With a strong foundation in software engineering and industry experience, committed to providing top-notch software solutions. Beyond coding, an avid reader and a stoic observer of the universe, dedicated to both personal and professional growth.
 
 
 <br>
