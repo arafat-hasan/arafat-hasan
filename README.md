@@ -5,7 +5,7 @@
 ## Hey there 👋
 <div>
 <div>
-<img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="40%" />
+<!-- <img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="40%" /> -->
 </div>
 <p style="text-align:justify">
 Engineer. Problem-solver. Relentless learner. I build efficient software, explore big ideas, and stay curious about everything.
