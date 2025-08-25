@@ -1,8 +1,6 @@
 
 <h1 align="center">Arafat Hasan</h1>
 <h4 align="center"> Continuous Learner • Outsider Observer </h4>
-<p align="center"> <tt><a href="https://arafat-hasan.github.io/">https://arafat-hasan.github.io/</a></tt></a> </p>
-
 
 ## Hey there 👋
 <div>
@@ -10,7 +8,9 @@
 <img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="40%" />
 </div>
 <p style="text-align:justify">
-A curious and enthusiastic continuous learner, always striving to master new technologies and devise efficient problem-solving methods. With a strong foundation in software engineering and industry experience, committed to providing top-notch software solutions. Beyond coding, an avid reader and a stoic observer of the universe, dedicated to both personal and professional growth.
+Engineer. Problem-solver. Relentless learner. I build efficient software, explore big ideas, and stay curious about everything.
+<br>
+I thrive on mastering new technologies, solving problems with elegance, and traversing disciplines — literature, philosophy, history, politics, and psychology. Committed to growth both within and beyond software, I pursue technical excellence alongside intellectual depth — a stoic observer of the universe.
 
 
 <br>
