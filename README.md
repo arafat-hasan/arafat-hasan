@@ -10,6 +10,7 @@
 <p style="text-align:justify">
 Engineer. Problem-solver. Relentless learner. I build efficient software, explore big ideas, and stay curious about everything.
 <br>
+<br>
 I thrive on mastering new technologies, solving problems with elegance, and traversing disciplines — literature, philosophy, history, politics, and psychology. Committed to growth both within and beyond software, I pursue technical excellence alongside intellectual depth — a stoic observer of the universe.
 
 
